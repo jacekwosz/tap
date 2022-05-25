@@ -14,3 +14,5 @@ spec:
     - https://github.com/jacekwosz/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/jacekwosz/tap/blob/main/yelb/catalog-info.yaml
     - https://github.com/jacekwosz/tap/blob/main/spring-sensors/catalog-info.yaml
+    - https://github.com/sample-accelerators/steeltoe-weatherforecast/blob/main/catalog/catalog-info.yaml
+    
